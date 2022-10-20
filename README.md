@@ -1,1 +1,1 @@
-# simple-bulk-image-downloader
+# simple-bulk-images-downloader
